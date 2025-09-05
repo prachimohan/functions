@@ -1,0 +1,9 @@
+import math
+n=float(input("enter the number:"))
+square_root=math.sqrt(n)
+logarithm=math.log(n)
+sine=math.sin(n)
+
+print(f"square root:{square_root}")
+print(f"logarithm is:{logarithm}")
+print(f"sine is:{sine}")
